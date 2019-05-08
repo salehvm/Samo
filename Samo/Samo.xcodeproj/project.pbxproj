@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C626E00F2282E98F00657B40 /* CoolTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C626E00E2282E98F00657B40 /* CoolTextView.swift */; };
 		C6FCE98C21F129FB00B2E4C2 /* Samo.h in Headers */ = {isa = PBXBuildFile; fileRef = C6FCE98A21F129FB00B2E4C2 /* Samo.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6FCE99321F12A1F00B2E4C2 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FCE99221F12A1F00B2E4C2 /* Service.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C626E00E2282E98F00657B40 /* CoolTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoolTextView.swift; sourceTree = "<group>"; };
 		C6FCE98721F129FB00B2E4C2 /* Samo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Samo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6FCE98A21F129FB00B2E4C2 /* Samo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Samo.h; sourceTree = "<group>"; };
 		C6FCE98B21F129FB00B2E4C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 				C6FCE98A21F129FB00B2E4C2 /* Samo.h */,
 				C6FCE98B21F129FB00B2E4C2 /* Info.plist */,
 				C6FCE99221F12A1F00B2E4C2 /* Service.swift */,
+				C626E00E2282E98F00657B40 /* CoolTextView.swift */,
 			);
 			path = Samo;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C626E00F2282E98F00657B40 /* CoolTextView.swift in Sources */,
 				C6FCE99321F12A1F00B2E4C2 /* Service.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
